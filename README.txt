@@ -1,3 +1,7 @@
+This has been forked from Matt Gemmell's official MGTwitterEngine repository.  All YAJL files and other non-necessary files have been removed.
+
+=====================================================================
+
 MGTwitterEngine
 by Matt Legend Gemmell - http://mattgemmell.com
 
